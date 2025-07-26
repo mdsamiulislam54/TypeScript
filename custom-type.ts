@@ -14,3 +14,4 @@ function makeRequest(requestType: RequestType) {
 }
 
 makeRequest("POST");
+ 
